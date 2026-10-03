@@ -2,26 +2,48 @@
 
 # 👋 Hi, I'm Raghwandra Singh
 
-### Backend Engineer | Node.js • TypeScript • AWS
+### Backend Engineer | DevOps & Cloud | Node.js • TypeScript • AWS
 
-Building scalable SaaS and FinTech platforms, from API design to cloud deployment.
+Building scalable SaaS and FinTech platforms, from API design to Kubernetes-ready cloud deployment.
 
 📍 Dehradun, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/raghwandra-singh-98306814a)
-
 </div>
 
 ---
 
 ## 💼 About me
 
-Backend engineer with **4.5+ years** of experience building SaaS, FinTech, CRM and LMS platforms. I lead a team of **4 developers** and take products from requirements and solution design to production release.
+Backend engineer with **4.5+ years** of experience building SaaS, FinTech, CRM and LMS platforms. I lead a team of **4 developers** and take products from requirements and solution design to production release, including the cloud infrastructure and pipelines behind them.
 
 - 🚀 **12+** web and mobile applications delivered
 - 🤝 **7+** client engagements
-- ☁️ Cloud-first: AWS, Docker, Terraform and automated CI/CD
-- 🌱 Currently expanding into **Python and AI-powered backend systems**
+- ☁️ Cloud and DevOps focused: AWS, Docker, Kubernetes, Terraform and automated CI/CD
+- 🤖 Expanding into **Python, AI agents and AI-powered backend systems**
+
+---
+
+## 🔧 DevOps and Cloud
+
+- 🏗️ **Infrastructure as code:** AWS environments provisioned with Terraform
+- 🐳 **Containers:** services packaged with Docker and deployed on Amazon ECS
+- ☸️ **Kubernetes:** hands-on with Kubernetes manifests and microservice deployments in personal projects
+- 🔁 **CI/CD:** automated UAT and production pipelines with GitHub Actions, AWS CodePipeline and CodeBuild, from commit to ECR to ECS in about 2-3 minutes
+- 🌐 **Multi-tenant SaaS infrastructure:** CloudFront, Route 53, ACM, custom domains and SSL, with secure AWS networking
+- 📦 **Mobile releases:** Android and iOS delivery through Google Play Console and App Store Connect
+
+---
+
+## 🤖 Agentic AI and AI-powered backends
+
+Building on my backend and cloud foundation to design AI-powered systems:
+
+- 🧠 LLM APIs, tool calling and structured outputs
+- 📚 RAG pipelines with vector search
+- 🔌 MCP (Model Context Protocol) and agent workflows
+- 🐍 Python and FastAPI for AI services
+- 🚀 Deploying AI services with Docker, Terraform and CI/CD
 
 ---
 
@@ -54,7 +76,7 @@ Backend engineer with **4.5+ years** of experience building SaaS, FinTech, CRM a
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-**Also:** REST APIs • Microservices • WebSockets • JWT • OAuth2 • RBAC • Prisma • Sequelize
+**Also:** REST APIs • Microservices • WebSockets • JWT • OAuth2 • RBAC • Prisma • Sequelize • Linux
 
 ---
 
@@ -68,9 +90,9 @@ Backend engineer with **4.5+ years** of experience building SaaS, FinTech, CRM a
 
 ---
 
-## ☁️ How I work
+## ✅ How I work
 
-- ✅ Clean, tested APIs with Jest and clear documentation
+- 🧪 Clean, tested APIs with Jest and clear documentation
 - 🔐 Secure by default: JWT, OAuth2 and role-based access control
 - 🐳 Everything containerized and deployed through automated pipelines
 - 🏗️ Infrastructure as code with Terraform
